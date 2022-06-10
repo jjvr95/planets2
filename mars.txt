@@ -1,1 +1,3 @@
 Welcome to Mars
+Population 0
+Bit boring here
